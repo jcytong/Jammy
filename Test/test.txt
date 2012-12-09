@@ -1,5 +1,5 @@
 Hello Johnny
-Hello Connie
+Hello Connie!
 
 Hey Jammy, what's up?
 Isn't GitHub cool?
